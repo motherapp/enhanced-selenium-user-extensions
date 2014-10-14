@@ -6,7 +6,6 @@ enhanced-selenium-user-extensions
 3. screen capture for command error and timeout
 4. for IE screen capture, need extra plugin (obsoleted)
 5. special handling for IE events (obsoleted)
-6. 
 
 
 How to Use
