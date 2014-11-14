@@ -11,6 +11,7 @@ enhanced-selenium-user-extensions
 How to Use
 ==========
 
+For Windows:
 <pre><code>
 type user-extensions.*.* > user-extensions.js
 
